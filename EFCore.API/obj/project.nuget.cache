@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+anMJq8pyVe5bTMJYEF93zTEWmFjAFmx2rxN8uQRa5Rkp2ug+9+gnBlT8Mg6WLO5b4GtvbXPFfyUWAhXbMidVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pedro Rafael Santos\\Documents\\.NET Projects\\EFCore\\EFCore.API\\EFCore.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro Rafael Santos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Pedro Rafael Santos\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Pedro Rafael Santos\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Pedro Rafael Santos\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Pedro Rafael Santos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Pedro Rafael Santos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

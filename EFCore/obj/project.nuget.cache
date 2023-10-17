@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YKvElmljvjp+DAtP0xKmUxQG8NyZCIXlC0Xm1Su54vVJx2wC0ZhIa7jTrVnrZ4R/EGQD0jsGka2pdIlb/jxYjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pedro Rafael Santos\\Documents\\.NET Projects\\EFCore\\EFCore\\EFCore.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro Rafael Santos\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
