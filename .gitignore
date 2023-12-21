@@ -2,3 +2,12 @@
 *.vsidx
 *.bin
 .vs/EFCore/v17/.futdcache.v2
+*.v2
+*.vsidx
+*.exe
+*.props
+*.cache
+*.cache
+*.json
+*.props
+*.json

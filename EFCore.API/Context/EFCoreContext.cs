@@ -23,6 +23,5 @@ namespace EFCore.API.Context
             );
         }
 
-
     }
 }
