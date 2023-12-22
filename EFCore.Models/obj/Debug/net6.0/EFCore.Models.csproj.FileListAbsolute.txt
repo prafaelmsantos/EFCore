@@ -9,3 +9,4 @@ C:\Users\Pedro Rafael Santos\Documents\.NET Projects\EFCore\EFCore.Models\obj\De
 C:\Users\Pedro Rafael Santos\Documents\.NET Projects\EFCore\EFCore.Models\obj\Debug\net6.0\refint\EFCore.Models.dll
 C:\Users\Pedro Rafael Santos\Documents\.NET Projects\EFCore\EFCore.Models\obj\Debug\net6.0\EFCore.Models.pdb
 C:\Users\Pedro Rafael Santos\Documents\.NET Projects\EFCore\EFCore.Models\obj\Debug\net6.0\ref\EFCore.Models.dll
+C:\Users\Pedro Rafael Santos\Documents\.NET Projects\EFCore\EFCore.Models\obj\Debug\net6.0\EFCore.Models.sourcelink.json
